@@ -15,7 +15,7 @@ Our Internet of Things Education Kit covers the  fundamental concepts of the Int
  ## Kit specification:
 
 * A full set of lecture slides, ready for use in a typical 10-12-week undergraduate course (full syllabus below).
-* Lab manuals with solutions for faculty. Labs use low cost, powerful hardware boards. Lab code and assets can be found [here](https://www.arm.com/resources/education/education-kits/aup-donation-request-form).
+* Lab manuals with solutions for faculty. Labs use low cost, powerful hardware boards. Lab code and assets can be found [here](https://community.arm.com/aup/iot-st/).
 * **Prerequisites:** Basics of programming in C/ C++, entry level Java programming.
 
 ## Course Aim
