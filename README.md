@@ -46,3 +46,6 @@ Arm is working actively with our partners, standards bodies, and the wider ecosy
 •	When introducing the AMBA AHB Protocols, we will use the term ‘Manager’ instead of ‘Master’ and ‘Subordinate’ instead of ‘Slave’. 
  
 Contact us at education@arm.com with questions or comments about this course. You can also report non-inclusive and offensive terminology usage in Arm content at terms@arm.com.
+
+## Attribution
+The dataset provided in the lab resources can be found here: https://www.kaggle.com/vmalyi/run-or-walk – This dataset was created by Viktor Malyi under the CC BY-NC-SA 4.0 license https://creativecommons.org/licenses/by-nc-sa/4.0/
