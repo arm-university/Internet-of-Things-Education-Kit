@@ -3,10 +3,6 @@
 
 Welcome to our Internet of Things Education Kit!
 
-## Update
-
-Arm has announced the End of Life Timeline for Mbed. The Arm Education team is actively working on creating alternative teaching and learning solutions in time for the new academic terms starting Fall/Autumn 2025. We welcome feedback from the academic community on this. Reach out to the team at: education@arm.com
-
 ### [Download the EdKit here](https://github.com/arm-university/Internet-of-Things-Education-Kit/archive/refs/heads/main.zip)
 
 Our flagship offering to universities worldwide is the Arm University Program Education Kit series.
@@ -14,6 +10,10 @@ Our flagship offering to universities worldwide is the Arm University Program Ed
 These self-contained educational materials offered exclusively and at no cost to academics and teaching staff worldwide. They’re designed to support your day-to-day teaching on core electronic engineering and computer science subjects. You have the freedom to choose which modules to teach – you can use all the modules in the Education Kit or only those that are most appropriate to your teaching outcomes.
 
 Our Internet of Things Education Kit covers the  fundamental concepts of the Internet of Things (IoT), such as embedded systems, connectivity, cloud computing, and security. The Education Kit provides student with practical experience in creating smartphone apps and controlling a wearable device using the Arm Mbed platform and Android SDK. This kit focuses on the transformative intersection between the internet, mobile and sensor technology and providing the skill set to get involved in IoT development. A full description of the education kit can be found [here](https://www.arm.com/resources/education/education-kits/internet-of-things).
+
+## Mbed Announcement
+
+Arm has announced the End of Life Timeline for Mbed. The Arm Education team is actively working on creating alternative teaching and learning solutions in time for the new academic terms starting Fall/Autumn 2025. We welcome feedback from the academic community on this. Reach out to the team at: education@arm.com
 
 
  ## Kit specification:
