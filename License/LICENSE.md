@@ -36,7 +36,7 @@ To the extent that any claim in any patent application filed by you would not ha
 
 13. SPECIAL CONDITIONS. The provisions of this Clause 13 shall take precedence in the event of any conflict with the remainder of this Agreement.
 
-    13.1 <ins>Arm Education Core</ins>: Use of the pedagogical processor model provided with the Introduction to Computer Architecture Education Kit (the "Arm Education Core") is subject to the following special conditions:
+    13.1. <ins>Arm Education Core</ins>: Use of the pedagogical processor model provided with the Introduction to Computer Architecture Education Kit (the "Arm Education Core") is subject to the following special conditions:
 
     (a) you may only refer to or publish the Arm Education Core, or any modifications you make to the Arm Education Core or any results you obtain from its use, in whole or in part if you have first obtained Arm's specific prior written consent by emailing us at the address specified in Clause 12 above;
 
@@ -44,7 +44,7 @@ To the extent that any claim in any patent application filed by you would not ha
 
     (c) you may not make any claims about the Arm Education Core's functionality or otherwise other than those published by Arm. The Arm Education Core is not representative of any commercially available Arm processors and you may not make any statements that indicate or imply the contrary.
 
-    13.2 <ins>Knowledge, Skills and Abilities Framework (the “KSA Framework”)</ins>: Use of the KSA Framework is subject to the following special conditions:
+    13.2. <ins>Knowledge, Skills and Abilities Framework (the “KSA Framework”)</ins>: Use of the KSA Framework is subject to the following special conditions:
 
     (a) You may use, copy and modify the KSA Framework for internal use only;
 
